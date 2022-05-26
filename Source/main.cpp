@@ -1,9 +1,11 @@
 //Puissance 4
 
-#include "print.h"
+#include "Application.h"
 
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
-    print();
+    cApplication app;
+    app.Initialize();
+
     return 0;
 }
