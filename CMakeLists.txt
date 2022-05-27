@@ -3,6 +3,7 @@ project(Puissance4 VERSION 0.1.0)
 
 set(SOURCE_FILES
     Source/main.cpp
+    Source/Application.cpp
 )
 
 add_executable(
