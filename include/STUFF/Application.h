@@ -1,7 +1,7 @@
 #pragma once
 
 #include <SFML/Graphics.hpp>
-#include "Delegate.h"
+#include "STUFF/Delegate.h"
 
 class cApplication
 {

@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "Application.h"
+#include "STUFF/Application.h"
 
 void processEvent(const sf::Event& iEvent)
 {

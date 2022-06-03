@@ -23,3 +23,6 @@ Each program will then link to the framework statically or dynamically.
 - Launcher : Can launch other programs
 - 4Chain : A game copyinh the Connect4 game
 - StuffGUI : A program to show off the homemade GUI system
+
+# Special Functionalities
+- FloatingTabs : Make window tabs float as icons in circles and magnet to the windows sides
